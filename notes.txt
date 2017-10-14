@@ -1,0 +1,13 @@
+OpenCV already installed
+Python3 already installed
+Installed Pycharm from PPA
+   2016
+   Fails to find Python Interpreter -- manual selection also broken
+Installed Pycharm manually
+   2017
+   works
+OpenCV not installed for Python3
+   Requires pip
+       Requires setuptools
+       Installed setuptools but repo source out of date
+       Updated setuptools
